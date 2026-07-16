@@ -1,12 +1,12 @@
 {
-  "name": "optimized-researcher-claude",
+  "name": "andre-arc",
   "owner": {
     "name": "andre-arc",
     "email": "andridarnius@gmail.com"
   },
   "plugins": [
     {
-      "name": "cost-optimized-researcher",
+      "name": "optimized-researcher-claude",
       "source": "./",
       "description": "Dynamic 5-agent parallel research pipeline — native Claude Code orchestration, no Python.",
       "version": "2.0.0",
