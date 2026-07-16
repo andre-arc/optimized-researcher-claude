@@ -9,7 +9,7 @@
       "name": "optimized-researcher-claude",
       "source": "./",
       "description": "Dynamic 5-agent parallel research pipeline — native Claude Code orchestration, no Python.",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "author": {
         "name": "andre-arc"
       }
