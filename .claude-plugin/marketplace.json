@@ -1,0 +1,18 @@
+{
+  "name": "optimized-researcher-claude",
+  "owner": {
+    "name": "andre-arc",
+    "email": "andridarnius@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "cost-optimized-researcher",
+      "source": "./",
+      "description": "Dynamic 5-agent parallel research pipeline running on a 4-tier model cascade with an 80% token slash.",
+      "version": "1.0.0",
+      "author": {
+        "name": "andre-arc"
+      }
+    }
+  ]
+}
