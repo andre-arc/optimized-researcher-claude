@@ -1,0 +1,8 @@
+{
+  "name": "optimized-researcher-claude-plugin",
+  "description": "Dynamic 5-agent parallel background pipeline with an 80% token slash using uv execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andre-arc"
+  }
+}
