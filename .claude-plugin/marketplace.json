@@ -8,8 +8,8 @@
     {
       "name": "cost-optimized-researcher",
       "source": "./",
-      "description": "Dynamic 5-agent parallel research pipeline running on a 4-tier model cascade with an 80% token slash.",
-      "version": "1.0.0",
+      "description": "Dynamic 5-agent parallel research pipeline — native Claude Code orchestration, no Python.",
+      "version": "2.0.0",
       "author": {
         "name": "andre-arc"
       }

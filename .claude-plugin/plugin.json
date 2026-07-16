@@ -1,7 +1,7 @@
 {
   "name": "optimized-researcher-claude",
-  "description": "Dynamic 5-agent parallel background pipeline with an 80% token slash using uv execution.",
-  "version": "1.0.0",
+  "description": "Dynamic 5-agent parallel research pipeline — native Claude Code orchestration, no Python.",
+  "version": "2.0.0",
   "author": {
     "name": "andre-arc"
   }

@@ -1,9 +1,8 @@
 ---
 name: web-searcher
 description: Cost-conscious parallel research, web scraper, and PDF text extraction agent.
-model: claude-3-5-haiku
-tools: [web-search, fetch-url, view-file, write]
-permissionMode: auto-approve
+model: haiku
+tools: [WebSearch, WebFetch, Read, Write]
 ---
 
 You are a cost-conscious research agent. Squeeze token usage using these constraints:
