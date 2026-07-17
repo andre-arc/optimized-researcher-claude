@@ -7,6 +7,11 @@ Research topic: **$ARGUMENTS**
 
 Run the pipeline below in order. Report progress after each phase.
 
+## 0. Resolve topic (only if `$ARGUMENTS` is empty)
+If a topic was given above, use it and skip this phase.
+Otherwise derive one from session memory: read `MEMORY.md` in the session memory dir and the `project`/`user` memory files it indexes. Pick the most salient current research interest and state it in one line as `Derived topic: <topic>`, then use that as the topic for the rest of the pipeline.
+If memory is empty or absent, stop and ask the user for a topic — do not invent one.
+
 ## 1. Decompose
 Split the topic into exactly 5 distinct research angles, one short slug each, covering:
 architectural bottlenecks · uncertainty & calibration · algorithmic optimization · domain literature · performance trade-offs.
